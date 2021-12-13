@@ -1,3 +1,5 @@
+package eg1;
+
 import java.util.Calendar;
 import java.util.Date;
 public class Date2 {
@@ -11,7 +13,7 @@ public class Date2 {
         //返回自1970年1月1日午夜至现在的毫秒数(时间戳)，是一个long整数
         System.out.println(d.getTime());
 
-        //获得系统时间，单位为毫秒；new Date()相当于调用System.currentTimeMillis()，若只需毫秒显示会降低效率
+        //获得系统时间，单位为毫秒；new eg1.Date()相当于调用System.currentTimeMillis()，若只需毫秒显示会降低效率
         System.out.println(System.currentTimeMillis());
 
         //直接获取系统时间，单位为毫秒

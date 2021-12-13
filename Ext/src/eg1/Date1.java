@@ -1,3 +1,5 @@
+package eg1;
+
 import java.util.Date;//精确导入类
 public class Date1 {
     public static void main(String[] args){

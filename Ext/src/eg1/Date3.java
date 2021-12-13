@@ -1,3 +1,5 @@
+package eg1;
+
 import java.util.Date;
 public class Date3 {
     public static void main(String[] args) {
