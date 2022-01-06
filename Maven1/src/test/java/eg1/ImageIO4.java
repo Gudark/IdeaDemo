@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * <p>Project: Maven1 - ImageIO4
+ * <p>Project: Maven1 - eg1.ImageIO4
  * <p>Powered by Gudark On 2021/12/20 10:54
  * <p>Created by IntelliJ IDEA
  *

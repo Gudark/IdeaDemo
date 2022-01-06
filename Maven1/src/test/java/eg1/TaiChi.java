@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * <p>Project: Maven1 - TaiChi
+ * <p>Project: Maven1 - eg1.TaiChi
  * <p>Powered by Gudark On 2021/12/20 19:46
  * <p>Created by IntelliJ IDEA
  *

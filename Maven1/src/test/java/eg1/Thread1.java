@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 import java.util.concurrent.TimeUnit;
 
 /**
- * <p>Project: Maven1 - Thread1
+ * <p>Project: Maven1 - eg1.Thread1
  * <p>Powered by Gudark On 2021/12/23 20:42
  * <p>Created by IntelliJ IDEA
  *

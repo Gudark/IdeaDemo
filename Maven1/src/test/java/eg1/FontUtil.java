@@ -1,3 +1,4 @@
+package eg1;
 /*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
@@ -7,7 +8,7 @@ import java.awt.*;
 import java.io.IOException;
 
 /**
- * <p>Project: Maven1 - FontUtil
+ * <p>Project: Maven1 - eg1.FontUtil
  * <p>Powered by Gudark On 2021/12/21 16:27
  * <p>Created by IntelliJ IDEA
  *

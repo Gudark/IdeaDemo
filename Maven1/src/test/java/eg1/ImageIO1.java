@@ -1,3 +1,4 @@
+package eg1;
 /*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
@@ -11,7 +12,7 @@ import java.io.IOException;
 import java.util.Random;
 
 /**
- * <p>Project: Maven1 - ImageIO1
+ * <p>Project: Maven1 - eg1.ImageIO1
  * <p>Powered by Gudark On 2021/12/17 20:23
  * <p>Created by IntelliJ IDEA
  *

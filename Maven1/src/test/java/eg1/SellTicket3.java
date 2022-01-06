@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -6,7 +6,7 @@
 import java.util.concurrent.TimeUnit;
 
 /**
- * <p>Project: Maven1 - SellTicket3
+ * <p>Project: Maven1 - eg1.SellTicket3
  * <p>Powered by Gudark On 2021/12/27 8:57
  * <p>Created by IntelliJ IDEA
  *

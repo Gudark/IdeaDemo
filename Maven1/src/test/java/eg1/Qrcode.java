@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -16,7 +16,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * <p>Project: Maven1 - Qrcode
+ * <p>Project: Maven1 - eg1.Qrcode
  * <p>Powered by Gudark On 2021/12/18 11:30
  * <p>Created by IntelliJ IDEA
  *

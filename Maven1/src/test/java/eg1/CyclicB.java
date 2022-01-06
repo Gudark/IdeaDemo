@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -9,7 +9,7 @@ import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.TimeUnit;
 
 /**
- * <p>Project: Maven1 - CyclicB
+ * <p>Project: Maven1 - eg1.CyclicB
  * <p>Powered by Gudark On 2021/12/28 10:41
  * <p>Created by IntelliJ IDEA
  *

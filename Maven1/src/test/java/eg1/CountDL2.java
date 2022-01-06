@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
 /**
- * <p>Project: Maven1 - CountDL2
+ * <p>Project: Maven1 - eg1.CountDL2
  * <p>Powered by Gudark On 2021/12/27 20:36
  * <p>Created by IntelliJ IDEA
  *

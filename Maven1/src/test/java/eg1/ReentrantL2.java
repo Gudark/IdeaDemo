@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -8,7 +8,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * <p>Project: Maven1 - ReentrantL2
+ * <p>Project: Maven1 - eg1.ReentrantL2
  * <p>Powered by Gudark On 2021/12/28 20:21
  * <p>Created by IntelliJ IDEA
  * <p>Description : This is description of class

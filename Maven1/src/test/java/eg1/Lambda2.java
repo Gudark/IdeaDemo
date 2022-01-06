@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.function.*;
 
 /**
- * <p>Project: Maven1 - Lambda2
+ * <p>Project: Maven1 - eg1.Lambda2
  * <p>Powered by Gudark On 2021/12/23 16:45
  * <p>Created by IntelliJ IDEA
  *

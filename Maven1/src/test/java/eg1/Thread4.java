@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -6,7 +6,7 @@
 import java.util.concurrent.TimeUnit;
 
 /**
- * <p>Project: Maven1 - Thread4
+ * <p>Project: Maven1 - eg1.Thread4
  * <p>Powered by Gudark On 2021/12/24 10:35
  * <p>Created by IntelliJ IDEA
  *

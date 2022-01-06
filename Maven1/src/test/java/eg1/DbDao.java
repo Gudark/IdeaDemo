@@ -1,5 +1,7 @@
+package eg1;
+
 /**
- * <p>Project: Maven1 - DbDao
+ * <p>Project: Maven1 - eg1.DbDao
  * <p>Powered by Gudark On 2021/12/23 16:22
  * <p>Created by IntelliJ IDEA
  *

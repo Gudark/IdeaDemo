@@ -1,4 +1,4 @@
-/*
+package eg1;/*
  * Copyright (c) 2018, 2021, github.com/Gudark All rights reserved.
  *
  */
@@ -6,7 +6,7 @@
 import java.util.*;
 
 /**
- * <p>Project: Maven1 - Lambda3
+ * <p>Project: Maven1 - eg1.Lambda3
  * <p>Powered by Gudark On 2021/12/23 20:05
  * <p>Created by IntelliJ IDEA
  *
